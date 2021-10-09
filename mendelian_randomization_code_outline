@@ -1,0 +1,4 @@
+1. Merge each exposure id with data frame 
+2. Conduct the MR analysis using MR packages for R
+3. Construct the result data frame
+4. Construct the plots and graphs (scatter plot, funnel plot, etc...)
